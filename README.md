@@ -1,5 +1,4 @@
 # To-Do-List-Application
-Sure, I'll explain the code line by line:
 
 ```python
 class TodoList:
